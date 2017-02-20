@@ -16,5 +16,10 @@ namespace TestProject
         {
             InitializeComponent();
         }
+
+        public void GetData(String text)
+        {
+            // bla
+        }
     }
 }
